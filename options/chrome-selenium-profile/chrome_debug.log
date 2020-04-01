@@ -1,0 +1,31 @@
+[10679:10679:0311/114225.550720:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[10679:10679:0311/114225.888846:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[10811:1:0311/114226.352686:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[10811:1:0311/114226.357303:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[10679:10679:0311/114232.850539:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[10679:10679:0311/114235.246086:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[10636:10636:0311/114236.949256:INFO:CONSOLE(8)] "Вы сказали: привет Кеша", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114237.089206:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114242.328850:INFO:CONSOLE(8)] "Вы сказали: Лёша привет", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114242.339181:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114248.367449:INFO:CONSOLE(8)] "Вы сказали: Лёша Открой Skype", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114248.391049:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114251.924792:INFO:CONSOLE(8)] "Вы сказали: Кеша Открой Гугл", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114251.945924:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114255.333401:INFO:CONSOLE(8)] "Вы сказали: Кеша Открой хром", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114255.353875:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114300.223976:INFO:CONSOLE(8)] "Вы сказали: Кеша открой Google Chrome", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114300.246550:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114306.979586:INFO:CONSOLE(8)] "Вы сказали: Кеша ты хороший", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114306.987334:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114313.301204:INFO:CONSOLE(8)] "Вы сказали: Я же Android", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114313.305742:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114317.825956:INFO:CONSOLE(8)] "Вы сказали: открой", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114317.830105:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114321.845329:INFO:CONSOLE(8)] "Вы сказали: Кеша открой", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114350.108222:INFO:CONSOLE(8)] "Вы сказали: Ксюша молодец", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114350.112357:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114355.666338:INFO:CONSOLE(8)] "Вы сказали: Ксюша я тебе не сказал я тебе", source: http://192.168.0.103:8000/static/js/recognition.js (8)
+[10636:10636:0311/114355.670676:INFO:CONSOLE(30)] "ok", source: http://192.168.0.103:8000/server/ (30)
+[10636:10636:0311/114400.314890:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[10636:10636:0311/114400.314934:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block title %}Голосовое управление{% endblock %}
+
+{% block content %}
+   <textarea style='width: 600px; height: 200px;' id='result_recognition'></textarea>
+   <button id='restart_recognition'>Перезапуск</button>
+{% endblock %}
+
+{% block js_code %}
+    <script>
+        function send_recognition_fetch_data(text) {
+            $.ajax({
+                url: "{{ url_for('server.index') }}",
+                method: "POST",
+                data: {
+                    text: text,
+                    csrfmiddlewaretoken: '{{ csrf_token }}'
+                },
+                success: ((data) => {
+                    console.log(data)
+                })
+            });
+        }
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/recognition.js') }}"></script>
+{% endblock %}

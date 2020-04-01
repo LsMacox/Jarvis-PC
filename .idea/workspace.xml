@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80e0015e-a290-4341-92c2-833642c07e2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VZfdTyioM8qkTpOGZwiS6ZbNds" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/jarvis_server/server" />
+      <recent name="$PROJECT_DIR$/jarvis_server/server/templates" />
+      <recent name="$PROJECT_DIR$/sockets/socket_server/tcp" />
+      <recent name="$PROJECT_DIR$/sockets/extra" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/server/templates" />
+      <recent name="$PROJECT_DIR$/options" />
+      <recent name="$PROJECT_DIR$/jarvis_server" />
+      <recent name="$PROJECT_DIR$/sockets/simple" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example1_http_via_sockets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/http/example1_http_via_sockets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example3_tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/tcp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/tcp/example3_tcp_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example3_urllib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/http/example3_urllib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/socket_server/tcp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/socket_server/tcp/socket_tcp_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_udp_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/socket_server/udp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/socket_server/udp/socket_udp_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_udp_server" type="PythonConfigurationType" factoryName="Python">
+      <module name="jarvis-pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sockets/socket_server/udp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets/socket_server/udp/socket_udp_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80e0015e-a290-4341-92c2-833642c07e2e" name="Default Changelist" comment="" />
+      <created>1576234040749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576234040749</updated>
+      <workItem from="1577459116836" duration="10000" />
+      <workItem from="1577459426252" duration="1474000" />
+      <workItem from="1577465629959" duration="47000" />
+      <workItem from="1577465773641" duration="173000" />
+      <workItem from="1577465974943" duration="12000" />
+      <workItem from="1577466009345" duration="29448000" />
+      <workItem from="1577696893460" duration="4633000" />
+      <workItem from="1577708839581" duration="9058000" />
+      <workItem from="1583420386572" duration="475000" />
+      <workItem from="1583496429729" duration="136000" />
+      <workItem from="1583681029619" duration="6468000" />
+      <workItem from="1583773235419" duration="7183000" />
+      <workItem from="1583781138006" duration="1635000" />
+      <workItem from="1583834717338" duration="6532000" />
+      <workItem from="1583915827298" duration="427000" />
+      <workItem from="1584090267901" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="194" key="#Notifications" timestamp="1577466053388">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="746" y="194" key="#Notifications/0.0.1920.1037@0.0.1920.1037" timestamp="1577466053388" />
+    <state x="1215" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577529710306">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="1215" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1037@0.0.1920.1037" timestamp="1577529710306" />
+    <state x="1102" y="397" key="FileChooserDialogImpl" timestamp="1583496564821">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="1102" y="397" key="FileChooserDialogImpl/0.0.1920.1037@0.0.1920.1037" timestamp="1583496564821" />
+    <state width="1364" height="287" key="GridCell.Tab.0.bottom" timestamp="1577470106705">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106705" />
+    <state width="1364" height="287" key="GridCell.Tab.0.center" timestamp="1577470106705">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.0.center/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106705" />
+    <state width="1364" height="287" key="GridCell.Tab.0.left" timestamp="1577470106704">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.0.left/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106704" />
+    <state width="1364" height="287" key="GridCell.Tab.0.right" timestamp="1577470106705">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.0.right/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106705" />
+    <state width="1364" height="287" key="GridCell.Tab.1.bottom" timestamp="1577470106706">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.1.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106706" />
+    <state width="1364" height="287" key="GridCell.Tab.1.center" timestamp="1577470106706">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.1.center/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106705" />
+    <state width="1364" height="287" key="GridCell.Tab.1.left" timestamp="1577470106705">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.1.left/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106705" />
+    <state width="1364" height="287" key="GridCell.Tab.1.right" timestamp="1577470106706">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1364" height="287" key="GridCell.Tab.1.right/0.0.1920.1037@0.0.1920.1037" timestamp="1577470106706" />
+    <state x="623" y="214" key="SettingsEditor" timestamp="1577641927711">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="623" y="214" key="SettingsEditor/0.0.1920.1037@0.0.1920.1037" timestamp="1577641927711" />
+    <state x="1094" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1584091164375">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="1094" y="318" key="com.intellij.ide.util.TipDialog/0.0.1920.1037@0.0.1920.1037" timestamp="1584091164375" />
+    <state x="1079" y="194" width="625" height="843" key="find.popup" timestamp="1583836846076">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="1079" y="194" width="625" height="843" key="find.popup/0.0.1920.1037@0.0.1920.1037" timestamp="1583836846076" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/udp/example1_udp_server.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/udp/example1_udp_client.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/udp/example1_udp_server_loop.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/udp/example2_udp_unix_server.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/udp/example2_udp_unix_client.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/tcp/example3_tcp_server.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/tcp/example3_tcp_client.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/tcp/example3_tcp_server.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/simple/tcp/example3_tcp_server.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/socket_server/udp/socket_udp_client.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/socket_server/udp/socket_udp_server.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/socket_server/udp/socket_udp_server.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/socket_server/extra/socket_tcp_server_threading.py</url>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sockets/http/example1_http_via_sockets.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
